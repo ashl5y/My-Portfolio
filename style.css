@@ -1,0 +1,24 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #e6ccff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f4f4f4;
+    color: #800080;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: #000000;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
